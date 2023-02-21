@@ -1,0 +1,45 @@
+body{
+  height: 10000px;
+}
+
+
+#d1,#d2,#d3,#s1,#s2,#s3,#s4,#s5,#s6{
+  color: red;
+  width: 20vw;
+  height: 30vh;
+  margin-top: 20px;
+  background-image: url(../img/iphone1.jpg);
+  background-size: cover;
+  
+}
+#d3{
+  background-image: url(../img/iphone3.jpg);
+
+}
+#d2{
+  background-image: url(../img/iphone2.jpg);
+
+}
+#s1{
+  background-image: url(../img/A70.jpg);
+
+}
+#s2{
+  background-image: url(../img/samsung-galaxy-a50.jpg);
+
+}#s3{
+  background-image: url(../img/a30.jpg);
+
+}
+#s4{
+  background-image: url(../img/galaxy-a22.jpg);
+  margin-top: 50px;
+}
+#s5{
+  background-image: url(../img/a12_black_1.png);
+  margin-top: 50px;
+}
+#s6{
+  background-image: url(../img/a10.jpg);
+  margin-top: 50px;
+}
